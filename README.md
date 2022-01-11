@@ -8,5 +8,5 @@
 ## Languages and Tools
 
 ## Connect with me
-https://www.linkedin.com/in/larisa-lagreca-87b784190/
-larisalagreca@gmail.com
+- https://www.linkedin.com/in/larisa-lagreca-87b784190/
+- larisalagreca@gmail.com
