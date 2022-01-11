@@ -4,6 +4,9 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
 
 ## Languages and Tools
+
+## Connect with me
+https://www.linkedin.com/in/larisa-lagreca-87b784190/
+larisalagreca@gmail.com
