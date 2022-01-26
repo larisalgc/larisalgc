@@ -7,8 +7,8 @@
 
 ## Languages and Tools
 
-HTML, CSS, Bootstrap, Javascript, Java, MySql, Firebase.
-Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator.
+- HTML, CSS, Bootstrap, Javascript, Java, MySql, Firebase.
+- Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator.
 
 ## Connect with me
 - https://www.linkedin.com/in/larisalgc/
